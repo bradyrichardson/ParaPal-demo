@@ -1,7 +1,7 @@
 # ParaPal
 
 <p align="center">
-  <img src="assets/Parapal-demo.gif" alt="ParaPal Demo" width="800"/>
+  <img src="/assets/Parapal-demo.gif" alt="ParaPal Demo" width="800"/>
 </p>
 
 ## About ParaPal
